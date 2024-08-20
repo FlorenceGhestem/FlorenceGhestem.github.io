@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Florence Ghestem",
+    "section": "",
+    "text": "PhD Student | Data Scientist | Omics Data Enthusiast"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Florence Ghestem",
+    "section": "About Me",
+    "text": "About Me\nWelcome to my website! I’m currently pursuing my PhD in Biostatistics in the CESP lab at Paris-Saclay University. My PhD project focuses on “extracting genotype-phenotype associations from network integration of deep and multiscale phenotypic data”. This project leverages my background in data science to analyze and integrate complex datasets, uncovering key insights into genetic and phenotypic relationships.\nWhen I’m not working, I love hiking, running, and and experimenting with creative projects.\nFeel free to explore my work and get in touch if you’re interested in academic discussions, potential collaborations, or just want to chat about outdoor adventures."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Florence Ghestem",
+    "section": "Research Interests",
+    "text": "Research Interests\nHere’s what I focus on:\n\nHigh-Dimensional Data Analysis\nMulti-Omics Data Integration\nMachine Learning in Bioinformatics\nNetwork-Based Methods"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Florence Ghestem",
+    "section": "CV",
+    "text": "CV\nFor a detailed overview of my academic and professional experience, view my Curriculum Vitae."
+  }
+]
