@@ -34,4 +34,4 @@ Here’s what I focus on:
 
 ## CV
 
-For a detailed overview of my academic and professional experience, view my [Curriculum Vitae](assets/resume-florence-ghestem.pdf).
+For a detailed overview of my academic and professional experience, view my [Curriculum Vitae](assets/ressources/resume-florence-ghestem.pdf).

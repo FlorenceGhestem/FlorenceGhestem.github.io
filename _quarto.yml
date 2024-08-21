@@ -10,6 +10,12 @@ website:
         text: About
       - href: publications.qmd
         text: Publications
+  page-footer:
+    border: true
+    left: |
+      Powered by [{{< iconify simple-icons:quarto >}} Quarto](https://quarto.org).
+    right: |
+      &copy; 2024 Florence Ghestem. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 format:
   html:
