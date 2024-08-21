@@ -13,7 +13,7 @@ website:
   page-footer:
     border: true
     left: |
-      Powered by [{{< iconify simple-icons:quarto >}} Quarto](https://quarto.org).
+      Powered by  [{{< iconify fa6-brands:r-project >}}](https://www.r-project.org/about.html){target=_blank}, [{{< iconify simple-icons:quarto >}} Quarto](https://quarto.org), and a dash of {{< iconify mdi:sparkles >}}
     right: |
       &copy; 2024 Florence Ghestem. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
