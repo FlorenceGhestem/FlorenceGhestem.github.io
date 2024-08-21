@@ -1,5 +1,7 @@
 ---
 title: "Florence Ghestem"
+subtitle: |
+  PhD Student | Biostatistician | R & Python Techie
 image: assets/images/profile-picture.jpg
 toc: false
 about: 
@@ -7,13 +9,16 @@ about:
  image-shape: round
  image-width: 15em
  links:
-  - text: LinkedIn
+  - text: "{{< iconify bi:linkedin >}}"
     href: https://www.linkedin.com/in/florence-ghestem-data-sciences/
-  - text: GitHub
+    aria-label: "LinkedIn logo linking to Florence's account"
+  - text: "{{< iconify akar-icons:github-fill >}}"
     href: https://github.com/FlorenceGhestem
+    aria-label: "GitHub logo linking to Florence's account"
+  - text: "{{< iconify simple-icons:orcid >}}"
+    href: "https://orcid.org/0009-0000-0699-7751"
+    aria-label: "ORCID logo linking to ORCID account"
 ---
-
-**PhD Student | Data Scientist | R & Python Techie**
 
 ## About Me
 
