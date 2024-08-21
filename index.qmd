@@ -19,7 +19,7 @@ about:
 
 Welcome to my website! I’m currently pursuing my PhD in **Biostatistics** in the **CESP** lab at **Paris-Saclay University**. My PhD project focuses on *"extracting genotype-phenotype associations from network integration of deep and multiscale phenotypic data"*. This project leverages my background in data science to analyze and integrate complex datasets, uncovering key insights into genetic and phenotypic relationships.
 
-When I'm not working, I love hiking, running, and and experimenting with creative projects.
+When I'm not working, I love hiking, running, and experimenting with creative projects.
 
 Feel free to explore my work and get in touch if you’re interested in academic discussions, potential collaborations, or just want to chat about outdoor adventures.
 
