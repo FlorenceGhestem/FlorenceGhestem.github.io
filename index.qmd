@@ -32,6 +32,6 @@ Here’s what I focus on:
 - **Machine Learning in Bioinformatics**
 - **Network-Based Methods**
 
-## CV
+## Resume
 
 For a detailed overview of my academic and professional experience, view my [Curriculum Vitae](assets/ressources/resume-florence-ghestem.pdf).
