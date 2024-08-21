@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-journal-title','listing-keywords',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-journal','listing-keywords',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-journal-title","listing-keywords"],
+      searchColumns: ["listing-date","listing-title","listing-journal","listing-keywords"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -214,7 +214,7 @@ window.Quarto = {
          <option value="listing-title-sort" data-direction="asc">
           Title
         </option>
-         <option value="listing-journal-title" data-direction="asc">
+         <option value="listing-journal" data-direction="asc">
           Journal
         </option>
          <option value="listing-keywords" data-direction="asc">
@@ -237,7 +237,7 @@ window.Quarto = {
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 <th>
-<a class="sort" data-sort="listing-journal-title" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Journal</a>
+<a class="sort" data-sort="listing-journal" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Journal</a>
 </th>
 <th>
 <a class="sort" data-sort="listing-keywords" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Key-words</a>
@@ -253,7 +253,7 @@ window.Quarto = {
 <a href="https://www.sciencedirect.com/science/article/pii/S0048969724022617" class="title listing-title">Novel indices reveal that pollinator exposure to pesticides varies across biological compartments and crop surroundings</a>
 </td>
 <td>
-<span class="listing-journal-title">&nbsp;</span>
+<span class="listing-journal">Science of The Total Environment</span>
 </td>
 <td>
 <span class="listing-keywords">Apple orchards, Bumblebee, Item response theory, Oilseed rape, Osmia</span>

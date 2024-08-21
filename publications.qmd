@@ -11,11 +11,11 @@ listing:
   sort: 'issued desc'
   type: table
   categories: false
-  sort-ui: [date, title, journal-title, keywords]
-  filter-ui: [date, title, journal-title, keywords]
-  fields: [date, title, journal-title, keywords]
+  sort-ui: [date, title, journal, keywords]
+  filter-ui: [date, title, journal, keywords]
+  fields: [date, title, journal, keywords]
   field-display-names:
     date: Issued
-    journal-title: Journal
+    journal: Journal
     keywords: Key-words
 ---
