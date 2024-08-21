@@ -8,7 +8,7 @@ about:
  image-width: 15em
  links:
   - text: LinkedIn
-    href: www.linkedin.com/in/florence-ghestem-data-sciences
+    href: https://www.linkedin.com/in/florence-ghestem-data-sciences/
   - text: GitHub
     href: https://github.com/FlorenceGhestem
 ---
