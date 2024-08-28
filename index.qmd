@@ -1,5 +1,7 @@
 ---
 title: "Florence Ghestem"
+subtitle: |
+  PhD Student | Biostatistician | R & Python Techie
 image: assets/images/profile-picture.jpg
 toc: false
 about: 
@@ -7,19 +9,22 @@ about:
  image-shape: round
  image-width: 15em
  links:
-  - text: LinkedIn
-    href: www.linkedin.com/in/florence-ghestem-data-sciences
-  - text: GitHub
+  - text: "{{< iconify bi:linkedin >}}"
+    href: https://www.linkedin.com/in/florence-ghestem-data-sciences/
+    aria-label: "LinkedIn logo linking to Florence's account"
+  - text: "{{< iconify akar-icons:github-fill >}}"
     href: https://github.com/FlorenceGhestem
+    aria-label: "GitHub logo linking to Florence's account"
+  - text: "{{< iconify simple-icons:orcid >}}"
+    href: "https://orcid.org/0009-0000-0699-7751"
+    aria-label: "ORCID logo linking to ORCID account"
 ---
-
-**PhD Student | Data Scientist | Omics Data Enthusiast**
 
 ## About Me
 
 Welcome to my website! I’m currently pursuing my PhD in **Biostatistics** in the **CESP** lab at **Paris-Saclay University**. My PhD project focuses on *"extracting genotype-phenotype associations from network integration of deep and multiscale phenotypic data"*. This project leverages my background in data science to analyze and integrate complex datasets, uncovering key insights into genetic and phenotypic relationships.
 
-When I'm not working, I love hiking, running, and and experimenting with creative projects.
+When I'm not working, I love hiking, running, and experimenting with creative projects.
 
 Feel free to explore my work and get in touch if you’re interested in academic discussions, potential collaborations, or just want to chat about outdoor adventures.
 
@@ -32,6 +37,6 @@ Here’s what I focus on:
 - **Machine Learning in Bioinformatics**
 - **Network-Based Methods**
 
-## CV
+## Resume
 
 For a detailed overview of my academic and professional experience, view my [Curriculum Vitae](assets/ressources/resume-florence-ghestem.pdf).
