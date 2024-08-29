@@ -1,0 +1,54 @@
+---
+title: "John Doe"
+subtitle: "Software Engineer"
+format:
+  html:
+    css: styles.css
+    theme: cosmo
+---
+
+## Summary
+
+Experienced software engineer with a passion for creating efficient and scalable applications. Skilled in full-stack development, cloud technologies, and agile methodologies.
+
+## Skills
+
+- Programming Languages: Python, JavaScript, Java
+- Web Technologies: React, Node.js, Django
+- Databases: PostgreSQL, MongoDB
+- Cloud Platforms: AWS, Google Cloud
+- DevOps: Docker, Kubernetes, CI/CD
+
+## Experience
+
+### Senior Software Engineer | TechCorp Inc. | 2020 - Present
+
+- Led development of a microservices-based e-commerce platform
+- Implemented automated testing and deployment pipelines
+- Mentored junior developers and conducted code reviews
+
+### Software Engineer | InnoSoft Solutions | 2017 - 2020
+
+- Developed and maintained multiple web applications using React and Django
+- Optimized database queries, improving application performance by 40%
+- Collaborated with UX designers to implement responsive designs
+
+## Education
+
+### Bachelor of Science in Computer Science | Tech University | 2013 - 2017
+
+- GPA: 3.8/4.0
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Systems
+
+## Projects
+
+### Personal Blog Engine | [GitHub](https://github.com/johndoe/blog-engine)
+
+- Developed a custom blog engine using Node.js and MongoDB
+- Implemented features like user authentication, comment system, and RSS feed
+
+## Contact
+
+- Email: john.doe@email.com
+- LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+- GitHub: [github.com/johndoe](https://github.com/johndoe)
