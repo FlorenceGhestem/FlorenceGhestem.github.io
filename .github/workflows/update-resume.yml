@@ -1,0 +1,40 @@
+name: Update Resume
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for updating the resume'
+        required: false
+        default: 'Manual update'
+
+jobs:
+  update-resume:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout website repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Download resume from other repository
+      run: |
+        curl -LJO https://raw.githubusercontent.com/FlorenceGhestem/My-Resume/main/resume-florence-ghestem.pdf
+        mv resume.pdf assets/ressources
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add assets/resume.pdf
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update resume: ${{ github.event.inputs.reason }}" && git push)
+
+    - name: Setup Quarto
+      uses: quarto-dev/quarto-actions/setup@v2
+
+    - name: Render and Publish
+      uses: quarto-dev/quarto-actions/publish@v2
+      with:
+        target: gh-pages
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
