@@ -78,7 +78,7 @@ Identified Dyslipidaemia Cases
 
 # 📈 Dyslipidaemia Risk Score Distribution
 
-The distribution of the LPC risk score across the entire cohort and between cases and controls provides the first insight into its predictive power.
+The distribution of the dyslipidaemia risk score across the entire cohort and between cases and controls provides the first insight into its predictive power.
 
 ::: {.figure-container}
 ![](assets/images/iges-2025/density-curve.png)
@@ -92,7 +92,7 @@ The distribution of the LPC risk score across the entire cohort and between case
 ![](assets/images/iges-2025/boxplots.png)
 
 ::: {.figure-caption}
-**Figure 4:** Distribution of LPC risk score percentiles among cases versus controls.
+**Figure 4:** Distribution of dyslipidaemia risk score percentiles among cases versus controls.
 :::
 :::
 
@@ -114,13 +114,13 @@ The AUC of 0.70 indicates a modest level of discrimination between cases and con
 
 ## Risk Stratification
 
-The most critical test for clinical application is whether the score can stratify the population into meaningfully different risk groups. We binned participants into 60 bin percentiles based on their LPC risk score and calculated the observed disease prevalence within each bin.
+The most critical test for clinical application is whether the score can stratify the population into meaningfully different risk groups. We binned participants into 60 bin percentiles based on their dyslipidaemia risk score and calculated the observed disease prevalence within each bin.
 
 ::: {.figure-container}
 ![](assets/images/iges-2025/percentiles-prevalence.png)
 
 ::: {.figure-caption}
-**Figure 6:** Disease prevalence across percentiles of the LPC risk score.
+**Figure 6:** Disease prevalence across percentiles of the dyslipidaemia risk score.
 :::
 :::
 
