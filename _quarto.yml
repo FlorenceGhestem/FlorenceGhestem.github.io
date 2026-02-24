@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: cv.qmd
+        text: Resume
       - href: news.qmd
         text: News
       - href: publications.qmd
         text: Publications
-      - href: cv.qmd
-        text: CV
 
 format:
   html:
