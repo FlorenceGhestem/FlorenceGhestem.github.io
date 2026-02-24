@@ -11,7 +11,7 @@ title: "News"
 ## 2025
 
 - **December 2025** — Co-organised the [StatGen Annual Meeting](https://statgen-am25.sciencesconf.org/), Paris, alongside Anne-Louise Leutenegger and Emmanuelle Bouzigon. Built the conference website and coordinated speaker communications, managed participant communications and the mailing list.
-- **August 2025** — Presented a poster at IGES 2025, Cologne, Germany. First international conference of my PhD — interesting discussions with the genetic epidemiology community.
+- **August 2025** — Presented a poster at [IGES 2025](https://onlinelibrary.wiley.com/doi/10.1002/gepi.70017), Cologne, Germany. First international conference of my PhD — interesting discussions with the genetic epidemiology community.
 - **May 2025** — Flash talk and poster at the [BIOTIC Annual Day](https://biotic2025.sciencesconf.org/), Marseille. A chance to present my work to a broader bioinformatic audience.
 - **May 2025** — Attended the [International Symposium on Human Genomics](https://ishg2025.sciencesconf.org/), Paris.
 - **May 2025** — Contributed to the launch of the INSERM StatGen thematic network with with Anne-Louise Leutenegger and Em, a new initiative connecting the statistical genetics community in France.
