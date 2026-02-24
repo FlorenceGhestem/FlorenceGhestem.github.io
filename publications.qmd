@@ -1,21 +1,28 @@
 ---
-title: 'Publications'
-page-layout: full
-title-block-banner: true
-image: /assets/images/social-profile.png
-date-format: 'MMMM,<br>YYYY'
-listing:
-  contents:
-    - publications.yml
-  page-size: 10
-  sort: 'issued desc'
-  type: table
-  categories: false
-  sort-ui: [date, title, journal, keywords]
-  filter-ui: [date, title, journal, keywords]
-  fields: [date, title, journal, keywords]
-  field-display-names:
-    date: Issued
-    journal: Journal
-    keywords: Key-words
+title: "Publications"
 ---
+
+## Journal Articles
+
+**Novel indices reveal that pollinator exposure to pesticides varies across biological compartments and crop surroundings**  
+Laurent M., Bougeard S., Caradec L., Ghestem F., et al.  
+*Science of The Total Environment*, 927, 172118, 2024.  
+[DOI](https://doi.org/10.1016/j.scitotenv.2024.172118){.btn .btn-outline-primary .btn-sm}
+
+---
+
+## Conference Posters
+
+**Knowledge graph to dissect genotype phenotype associations**  
+Ghestem F., Marenne G., Genin E., Jannot A-S., Baudot A., Leutenegger A-L.  
+*IGES 2025 — Annual Meeting of the International Genetic Epidemiology Society*, September 2025, Cologne, Germany.  
+[📄 HAL](https://hal.science/hal-05333821v1){.btn .btn-outline-primary .btn-sm}
+
+---
+
+## Software
+
+**Rnem** — R Shiny application to simulate nematode-plant root dynamics and model virulence evolution under resistant/susceptible cultivar rotations.  
+Ghestem F., Touzeau S., Calcagno V., Mailleret L.  
+Institut Sophia Agrobiotech (INRAE/CNRS/Université Côte d'Azur), 2021.  
+[📦 HAL](https://hal.inrae.fr/hal-04637082){.btn .btn-outline-primary .btn-sm} [🔗 App](https://rnem.sk8.inrae.fr/){.btn .btn-outline-secondary .btn-sm}

@@ -1,0 +1,27 @@
+---
+title: "News"
+---
+
+## 2026
+
+- **February 2026** — Three-week research visit at Marseille Medical Genetics (MMG). Working with the Baudot lab to push forward the graph methodology at the core of my PhD.
+
+---
+
+## 2025
+
+- **December 2025** — Co-organised the [StatGen Annual Meeting](https://statgen-am25.sciencesconf.org/), Paris, alongside Anne-Louise Leutenegger and Emmanuelle Bouzigon. Built the conference website and coordinated speaker communications, managed participant communications and the mailing list.
+- **August 2025** — Presented a poster at IGES 2025, Cologne, Germany. First international conference of my PhD — interesting discussions with the genetic epidemiology community.
+- **May 2025** — Flash talk and poster at the [BIOTIC Annual Day](https://biotic2025.sciencesconf.org/), Marseille. A chance to present my work to a broader bioinformatic audience.
+- **May 2025** — Attended the [International Symposium on Human Genomics](https://ishg2025.sciencesconf.org/), Paris.
+- **May 2025** — Contributed to the launch of the INSERM StatGen thematic network with with Anne-Louise Leutenegger and Em, a new initiative connecting the statistical genetics community in France.
+- **January 2025** — Animated a M4DI consortium working session, presenting my work alongside two other PhD students and an external researcher.
+
+---
+
+## 2024
+
+- **November 2024** — Two-week research visit at Marseille Medical Genetics (MMG). First stay with the Baudot lab, got hands-on with patient similarity networks and knowledge graph methods.
+- **November 2024** — Collaboration with the PaMuNe project (Argentina), meetings at MMG during my visit.
+- **October 2024** — M4DI consortium annual retreat. Met the broader team and got introduced to FAIR data principles in the context of health research.
+- **September 2024** — Started my PhD at CESP, INSERM, Villejuif.

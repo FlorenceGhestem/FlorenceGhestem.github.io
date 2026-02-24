@@ -1,0 +1,89 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Summary
+
+PhD candidate in Biostatistics & Genetic Epidemiology at INSERM, Paris. I develop graph-based machine learning methods, _e.g._ knowledge graphs and heterogeneous graph neural networks, to extract genotype-phenotype associations from large-scale cohort data. Committed to open science, reproducibility, and supporting women in machine learning.
+
+---
+
+## Research Experience
+
+**PhD Student in Biostatistics & Genetic Epidemiology** *(September 2024 – present)*  
+Université Paris-Saclay, UVSQ, Inserm, CESP / HiDiBiostat team, Villejuif, France
+Supervised by Anne-Louise Leutenegger, Anaïs Baudot (MMG, Aix-Marseille Université), Anne-Sophie Jannot (APHP/HeKA)  
+Funded by ANR PEPR Santé Numérique — M4DI project
+
+- Developing graph-based machine learning methods to extract genotype-phenotype associations from heterogeneous, multi-scale cohort data (10,000 participants)
+- Integrating clinical, pharmacological, and genomic data using network representations and deep learning approaches
+- Conducting genome-wide association studies on quantitative biological traits and benchmarking against existing catalogs
+- Regular research visits to Marseille Medical Genetics (MMG), Aix-Marseille Université
+- Active participant in the M4DI ANR-PEPR Santé Numérique consortium
+
+**Biostatistics Consultant** *(September 2022 – September 2024)*  
+IT&M Stats (L'Oréal client), Boulogne-Billancourt
+
+- Statistical analysis of cohort studies linking skin biomarkers with clinical signs (PLS, factorial analyses, linear mixed models)
+- Project management and monitoring of a 10,000-participant cohort
+
+**Statistician Intern** *(March – September 2022)*  
+Chanel, Paris
+
+- Clinical results database design, data visualisation, structural equation modelling
+
+---
+
+## Education
+
+**M.Sc. in Data Sciences for Biology** *(2019 – 2022)*  
+Institut Agro, Rennes  
+Machine learning, multivariate statistics, bioinformatics, perception data analysis  
+Thesis: *Construction and Evaluation of Clinical Performance Scores*
+
+**Diploma of Technological Studies, Biological Engineering** *(2017 – 2019)*  
+Université d'Avignon  
+Statistics, bioinformatics, genetics, plant and animal biology
+
+---
+
+## Skills
+
+**Machine Learning & Statistics** — Graph neural networks, contrastive learning, knowledge graph embeddings, GWAS, high-dimensional data integration, clustering, dimensionality reduction, network analysis.
+
+**Programming & Tools** — Python (PyTorch, Polars, NetworkX, scikit-learn), R (Shiny, tidyverse), Bash, Git, Docker, Quarto, PLINK, GCTA, VEP, CADD, SQL (BigQuery), GCP.
+
+**Languages** — French (native), English (C1 — TOEIC 975), Spanish (B2).
+
+---
+
+## Scientific Output
+
+**Conference Poster** — *Knowledge graph to dissect genotype-phenotype associations*  
+Ghestem F., Marenne G., Genin E., Jannot A-S., Baudot A., Leutenegger A-L.  
+IGES, Cologne, Germany, September 2025. [HAL](https://hal.science/hal-05333821v1)
+
+**Flash Talk & Poster** — BIOTIC Annual Day, Marseille, May 2025.
+
+**Journal Article** — *Novel indices reveal that pollinator exposure to pesticides varies across biological compartments and crop surroundings*  
+Laurent M., Bougeard S., Caradec L., Ghestem F., et al.  
+*Science of The Total Environment*, 927, 172118, 2024. [DOI](https://doi.org/10.1016/j.scitotenv.2024.172118)
+
+**Software** — *Rnem* (R Shiny) — simulation app for nematode-plant dynamics and virulence evolution  
+Ghestem F., Touzeau S., Calcagno V., Mailleret L. — INRAE, 2021. [HAL](https://hal.inrae.fr/hal-04637082) · [App](https://rnem.sk8.inrae.fr/)
+
+---
+
+## Community
+
+**Co-organiser — StatGen Annual Meeting** *(December 2025, Campus Odéon, Paris)*  
+Built the conference website, coordinated speakers, managed participant communications and mailing list, contributed to programme design..
+
+**Co-organiser — M4DI PhD Student Annual Retreat** *(October 2025)*  
+Designed workshops, coordinated programme, and facilitated sessions for the M4DI ANR consortium PhD student retreat.
+
+**Mission Doctorale — StatGen Network Launch** *(May 2025)*  
+Contributed to the launch and scientific animation of the INSERM StatGen thematic network.
+
+**Career Talk — Journée des Métiers** *(March 2025, Institut Agro Rennes)*  
+Presented industry-to-academia trajectory to prospective students.

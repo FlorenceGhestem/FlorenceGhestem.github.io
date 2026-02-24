@@ -1,41 +1,30 @@
 ---
 title: "Florence Ghestem"
-subtitle: |
-  PhD Student | Biostatistician | R & Python Techie
-image: assets/images/profile-picture.jpg
-toc: false
-about: 
- template: solana
- image-shape: round
- image-width: 15em
- links:
-  - text: "{{< iconify bi:linkedin >}}"
-    href: https://www.linkedin.com/in/florence-ghestem-data-sciences/
-    aria-label: "LinkedIn logo linking to Florence's account"
-  - text: "{{< iconify akar-icons:github-fill >}}"
-    href: https://github.com/FlorenceGhestem
-    aria-label: "GitHub logo linking to Florence's account"
-  - text: "{{< iconify simple-icons:orcid >}}"
-    href: "https://orcid.org/0009-0000-0699-7751"
-    aria-label: "ORCID logo linking to ORCID account"
 ---
+
+PhD Student | Biostatistician | R & Python
 
 ## About Me
 
-Welcome to my website! I’m currently pursuing my PhD in **Biostatistics** in the **CESP** lab at **Paris-Saclay University**. My PhD project focuses on *"extracting genotype-phenotype associations from network integration of deep and multiscale phenotypic data"*.
+I'm a PhD student in **Biostatistics and Genetic Epidemiology** at [CESP](https://cesp.inserm.fr/) (Université Paris-Saclay, UVSQ, Inserm), Villejuif, in the **HiDiBiostat** team. My PhD is funded through [M4DI](https://m4di.univ-amu.fr/), an interdisciplinary consortium developing methodological frameworks for multimodal biomedical data integration (ANR PEPR Santé Numérique).
+
+My research focuses on developing graph-based machine learning methods to extract genotype-phenotype associations from heterogeneous, multi-scale cohort data (10,000 participants). Integrating clinical, pharmacological, and genomic data using network representations and deep learning approaches.
+
+I am supervised by [Anne-Louise Leutenegger](https://cvscience.aviesan.fr/cv/719/anne-louise-leutenegger) (CESP/NeuroDiderot, INSERM), [Anaïs Baudot](https://www.marseille-medical-genetics.org/a-baudot/) (CNRS/MMG, Aix-Marseille Université), and [Anne-Sophie Jannot](https://heka.gitlabpages.inria.fr/team/members/jannot.html) (BNDMR, HeKA).
+
+Before my PhD, I worked as a biostatistics consultant, leading statistical analyses and cohort project management for industry clients in the cosmetics sector.
 
 When I'm not working, I love hiking and experimenting with creative projects.
 
-Feel free to explore my work and get in touch if you’re interested in academic discussions or potential collaborations.
-
 ## Research Interests
 
-Here’s what I focus on:
+- **Graph Neural Networks & Representation Learning**
+- **Knowledge Graphs for Biomedical Data**
+- **Statistical Genetics & Genotype-Phenotype Associations**
+- **Multi-Modal Data Integration**
 
-- **High-Dimensional Data Analysis**
-- **Multi-Omics Data Integration**
-- **Network-Based Methods**
+## Contact
 
-## Resume
-
-For a detailed overview of my academic and professional experience, view my [Curriculum Vitae](assets/ressources/resume-florence-ghestem.pdf).
+✉️ [florence.ghestem@inserm.fr](mailto:florence.ghestem@inserm.fr)  
+🔗 [ORCID 0009-0000-0699-7751](https://orcid.org/0009-0000-0699-7751)  
+💻 [GitHub](https://github.com/FlorenceGhestem)

@@ -1,28 +1,23 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Florence Ghestem"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: About
+      - href: news.qmd
+        text: News
       - href: publications.qmd
         text: Publications
-  page-footer:
-    border: true
-    left: |
-      Powered by  [{{< iconify fa6-brands:r-project >}}](https://www.r-project.org/about.html){target=_blank}, [{{< iconify simple-icons:quarto >}} Quarto](https://quarto.org), and a dash of {{< iconify mdi:sparkles >}}
-    right: |
-      &copy; 2024 Florence Ghestem. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+      - href: cv.qmd
+        text: CV
+      - href: iges-supplementary-materials.qmd
+        text: IGES Supplementary Materials
 
 format:
   html:
-    theme: yeti
+    theme: cosmo
     css: styles.css
     toc: true
-    page-layout: full
-
-
-
