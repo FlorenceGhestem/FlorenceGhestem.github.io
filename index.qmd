@@ -1,5 +1,18 @@
 ---
 title: "Florence Ghestem"
+image: assets/images/profile-picture.jpg
+toc: false
+about:
+  template: solana
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/florence-ghestem-data-sciences
+    - text: GitHub
+      href: https://github.com/FlorenceGhestem
+    - text: ORCID
+      href: https://orcid.org/0009-0000-0699-7751
 ---
 
 PhD Student | Biostatistician | R & Python
@@ -23,8 +36,3 @@ When I'm not working, I love hiking and experimenting with creative projects.
 - **Statistical Genetics & Genotype-Phenotype Associations**
 - **Multi-Modal Data Integration**
 
-## Contact
-
-✉️ [florence.ghestem@inserm.fr](mailto:florence.ghestem@inserm.fr)  
-🔗 [ORCID 0009-0000-0699-7751](https://orcid.org/0009-0000-0699-7751)  
-💻 [GitHub](https://github.com/FlorenceGhestem)
