@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD candidate in Biostatistics & Genetic Epidemiology at INSERM, Paris. I develop graph-based machine learning methods, e.g. knowledge graphs and heterogeneous graph neural networks, to extract genotype-phenotype associations from large-scale cohort data. Committed to open science, reproducibility, and supporting women in machine learning."
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD candidate in Biostatistics & Genetic Epidemiology at INSERM, Paris. I develop graph-based machine learning methods, e.g. knowledge graphs and heterogeneous graph neural networks, to extract genotype-phenotype associations from large-scale cohort data. Committed to open science, reproducibility, and supporting women in machine learning."
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\nPhD Student in Biostatistics & Genetic Epidemiology (September 2024 – present)\nUniversité Paris-Saclay, UVSQ, Inserm, CESP / HiDiBiostat team, Villejuif, France Supervised by Anne-Louise Leutenegger, Anaïs Baudot (MMG, Aix-Marseille Université), Anne-Sophie Jannot (APHP/HeKA)\nFunded by ANR PEPR Santé Numérique — M4DI project\n\nDeveloping graph-based machine learning methods to extract genotype-phenotype associations from heterogeneous, multi-scale cohort data (10,000 participants)\nIntegrating clinical, pharmacological, and genomic data using network representations and deep learning approaches\nConducting genome-wide association studies on quantitative biological traits and benchmarking against existing catalogs\nRegular research visits to Marseille Medical Genetics (MMG), Aix-Marseille Université\nActive participant in the M4DI ANR-PEPR Santé Numérique consortium\n\nBiostatistics Consultant (September 2022 – September 2024)\nIT&M Stats (L’Oréal client), Boulogne-Billancourt\n\nStatistical analysis of cohort studies linking skin biomarkers with clinical signs (PLS, factorial analyses, linear mixed models)\nProject management and monitoring of a 10,000-participant cohort\n\nStatistician Intern (March – September 2022)\nChanel, Paris\n\nClinical results database design, data visualisation, structural equation modelling"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nM.Sc. in Data Sciences for Biology (2019 – 2022)\nInstitut Agro, Rennes\nMachine learning, multivariate statistics, bioinformatics, perception data analysis\nThesis: Construction and Evaluation of Clinical Performance Scores\nDiploma of Technological Studies, Biological Engineering (2017 – 2019)\nUniversité d’Avignon\nStatistics, bioinformatics, genetics, plant and animal biology"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nMachine Learning & Statistics — Graph neural networks, contrastive learning, knowledge graph embeddings, GWAS, high-dimensional data integration, clustering, dimensionality reduction, network analysis.\nProgramming & Tools — Python (PyTorch, Polars, NetworkX, scikit-learn), R (Shiny, tidyverse), Bash, Git, Docker, Quarto, PLINK, GCTA, VEP, CADD, SQL (BigQuery), GCP.\nLanguages — French (native), English (C1 — TOEIC 975), Spanish (B2)."
+  },
+  {
+    "objectID": "cv.html#scientific-output",
+    "href": "cv.html#scientific-output",
+    "title": "Curriculum Vitae",
+    "section": "Scientific Output",
+    "text": "Scientific Output\nConference Poster — Knowledge graph to dissect genotype-phenotype associations\nGhestem F., Marenne G., Genin E., Jannot A-S., Baudot A., Leutenegger A-L.\nIGES, Cologne, Germany, September 2025. HAL\nFlash Talk & Poster — BIOTIC Annual Day, Marseille, May 2025.\nJournal Article — Novel indices reveal that pollinator exposure to pesticides varies across biological compartments and crop surroundings\nLaurent M., Bougeard S., Caradec L., Ghestem F., et al.\nScience of The Total Environment, 927, 172118, 2024. DOI\nSoftware — Rnem (R Shiny) — simulation app for nematode-plant dynamics and virulence evolution\nGhestem F., Touzeau S., Calcagno V., Mailleret L. — INRAE, 2021. HAL · App"
+  },
+  {
+    "objectID": "cv.html#community",
+    "href": "cv.html#community",
+    "title": "Curriculum Vitae",
+    "section": "Community",
+    "text": "Community\nCo-organiser — StatGen Annual Meeting (December 2025, Campus Odéon, Paris)\nBuilt the conference website, coordinated speakers, managed participant communications and mailing list, contributed to programme design..\nCo-organiser — M4DI PhD Student Annual Retreat (October 2025)\nDesigned workshops, coordinated programme, and facilitated sessions for the M4DI ANR consortium PhD student retreat.\nMission Doctorale — StatGen Network Launch (May 2025)\nContributed to the launch and scientific animation of the INSERM StatGen thematic network.\nCareer Talk — Journée des Métiers (March 2025, Institut Agro Rennes)\nPresented industry-to-academia trajectory to prospective students."
+  },
+  {
     "objectID": "iges-supplementary-materials.html",
     "href": "iges-supplementary-materials.html",
     "title": "Dyslipidaemia Risk Score Analysis",
@@ -25,132 +74,83 @@
     "href": "index.html",
     "title": "Florence Ghestem",
     "section": "",
-    "text": "Welcome to my website! I’m currently pursuing my PhD in Biostatistics in the CESP lab at Paris-Saclay University. My PhD project focuses on “extracting genotype-phenotype associations from network integration of deep and multiscale phenotypic data”.\nWhen I’m not working, I love hiking and experimenting with creative projects.\nFeel free to explore my work and get in touch if you’re interested in academic discussions or potential collaborations."
+    "text": "PhD Student | Biostatistician | R & Python"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Florence Ghestem",
-    "section": "",
-    "text": "Welcome to my website! I’m currently pursuing my PhD in Biostatistics in the CESP lab at Paris-Saclay University. My PhD project focuses on “extracting genotype-phenotype associations from network integration of deep and multiscale phenotypic data”.\nWhen I’m not working, I love hiking and experimenting with creative projects.\nFeel free to explore my work and get in touch if you’re interested in academic discussions or potential collaborations."
+    "section": "About Me",
+    "text": "About Me\nI’m a PhD student in Biostatistics and Genetic Epidemiology at CESP (Université Paris-Saclay, UVSQ, Inserm), Villejuif, in the HiDiBiostat team. My PhD is funded through M4DI, an interdisciplinary consortium developing methodological frameworks for multimodal biomedical data integration (ANR PEPR Santé Numérique).\nMy research focuses on developing graph-based machine learning methods to extract genotype-phenotype associations from heterogeneous, multi-scale cohort data (10,000 participants). Integrating clinical, pharmacological, and genomic data using network representations and deep learning approaches.\nI am supervised by Anne-Louise Leutenegger (CESP/NeuroDiderot, INSERM), Anaïs Baudot (CNRS/MMG, Aix-Marseille Université), and Anne-Sophie Jannot (BNDMR, HeKA).\nBefore my PhD, I worked as a biostatistics consultant, leading statistical analyses and cohort project management for industry clients in the cosmetics sector.\nWhen I’m not working, I love hiking and experimenting with creative projects."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Florence Ghestem",
     "section": "Research Interests",
-    "text": "Research Interests\nHere’s what I focus on:\n\nHigh-Dimensional Data Analysis\nMulti-Omics Data Integration\nNetwork-Based Methods"
+    "text": "Research Interests\n\nGraph Neural Networks & Representation Learning\nKnowledge Graphs for Biomedical Data\nStatistical Genetics & Genotype-Phenotype Associations\nMulti-Modal Data Integration"
   },
   {
-    "objectID": "index.html#resume",
-    "href": "index.html#resume",
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
     "title": "Florence Ghestem",
-    "section": "Resume",
-    "text": "Resume\nFor a detailed overview of my academic and professional experience, view my Curriculum Vitae."
+    "section": "Contact",
+    "text": "Contact\n✉️ florence.ghestem@inserm.fr\n🔗 ORCID 0009-0000-0699-7751\n💻 GitHub"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Issued - Oldest\n        \n         \n          Issued - Newest\n        \n         \n          Title\n        \n         \n          Journal\n        \n         \n          Key-words\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nIssued\n\n\nTitle\n\n\nJournal\n\n\nKey-words\n\n\n\n\n\n\nJune,2024\n\n\nNovel indices reveal that pollinator exposure to pesticides varies across biological compartments and crop surroundings\n\n\nScience of The Total Environment\n\n\nApple orchards, Bumblebee, Item response theory, Oilseed rape, Osmia\n\n\n\n\n\nNo matching items"
+    "text": "Novel indices reveal that pollinator exposure to pesticides varies across biological compartments and crop surroundings\nLaurent M., Bougeard S., Caradec L., Ghestem F., et al.\nScience of The Total Environment, 927, 172118, 2024.\nDOI"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
     "section": "",
-    "text": "PhD candidate in Biostatistics & Genetic Epidemiology at INSERM, Paris. I develop graph-based machine learning methods — knowledge graphs and heterogeneous graph neural networks — to extract genotype-phenotype associations from large-scale cohort data. Committed to open science, reproducibility, and supporting women in machine learning."
+    "text": "Novel indices reveal that pollinator exposure to pesticides varies across biological compartments and crop surroundings\nLaurent M., Bougeard S., Caradec L., Ghestem F., et al.\nScience of The Total Environment, 927, 172118, 2024.\nDOI"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nM.Sc. in Data Sciences for Biology (2019 – 2022)\nInstitut Agro, Rennes\nMachine learning, multivariate statistics, bioinformatics, perception data analysis\nThesis: Construction and Evaluation of Clinical Performance Scores\nDiploma of Technological Studies, Biological Engineering (2017 – 2019)\nUniversité d’Avignon\nStatistics, bioinformatics, genetics, plant and animal biology"
+    "objectID": "publications.html#conference-posters",
+    "href": "publications.html#conference-posters",
+    "title": "Publications",
+    "section": "Conference Posters",
+    "text": "Conference Posters\nKnowledge graph to dissect genotype phenotype associations\nGhestem F., Marenne G., Genin E., Jannot A-S., Baudot A., Leutenegger A-L.\nIGES 2025 — Annual Meeting of the International Genetic Epidemiology Society, September 2025, Cologne, Germany.\n📄 HAL"
   },
   {
-    "objectID": "cv.html#research-experience",
-    "href": "cv.html#research-experience",
-    "title": "Curriculum Vitae",
-    "section": "Research Experience",
-    "text": "Research Experience\nPhD Student in Biostatistics & Genetic Epidemiology (September 2024 – present)\nCESP – INSERM U1018 / HiDiBiostat team, Hôpital Paul Brousse, Villejuif\nSupervised by Anne-Louise Leutenegger, Anaïs Baudot (MMG, Aix-Marseille Université), Anne-Sophie Jannot (APHP/HeKA)\nFunded by ANR PEPR Santé Numérique — M4DI project\n\nDeveloping heterogeneous knowledge graph approaches (PyTorch Geometric) for genotype-phenotype association discovery in 10,000-participant cohort data (CONSTANCES × POPGEN, GOLD project)\nImplementing heterogeneous GNNs with graph attention layers and contrastive learning (InfoNCE) for pharmacogenetics validation\nConducting GWAS on 24 quantitative biological traits; comparing signals to GWAS Catalog and PGS Catalog\nRegular research visits to Marseille Medical Genetics (MMG), Aix-Marseille Université\nActive participant in the M4DI ANR consortium (monthly meetings, annual retreat, working session co-animation)\n\nBiostatistics Consultant (September 2022 – September 2024)\nIT&M Stats (L’Oréal client), Boulogne-Billancourt\n\nStatistical analysis of cohort studies linking skin biomarkers with clinical signs (PLS, factorial analyses, linear mixed models)\nProject management and monitoring of a 10,000-participant cohort\n\nStatistician Intern (March – September 2022)\nChanel, Paris\n\nClinical results database design, data visualisation, structural equation modelling"
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\nMachine Learning & Statistics — Graph neural networks (PyTorch Geometric), contrastive learning (InfoNCE), knowledge graph embeddings, GWAS, high-dimensional data integration, clustering, dimensionality reduction, network analysis\nProgramming & Tools — Python (PyTorch, Polars, NetworkX, scikit-learn), R (Shiny, tidyverse), Bash, Git, Docker, Quarto, PLINK, GCTA, VEP, CADD, SQL (BigQuery), GCP\nLanguages — French (native), English (C1 — TOEIC 975), Spanish (B2)"
-  },
-  {
-    "objectID": "cv.html#scientific-output",
-    "href": "cv.html#scientific-output",
-    "title": "Curriculum Vitae",
-    "section": "Scientific Output",
-    "text": "Scientific Output\nConference Poster — Knowledge graph to dissect genotype-phenotype associations\nGhestem F., Marenne G., Genin E., Jannot A-S., Baudot A., Leutenegger A-L.\nIGES 2025, Cologne, Germany. HAL\nFlash Talk & Poster — BIOTIC Annual Day, Paris, May 2025\nSoftware — Rnem (R Shiny) — simulation app for nematode-plant dynamics and virulence evolution\nGhestem F., Touzeau S., Calcagno V., Mailleret L. — INRAE, 2021. HAL · App"
-  },
-  {
-    "objectID": "cv.html#service-outreach",
-    "href": "cv.html#service-outreach",
-    "title": "Curriculum Vitae",
-    "section": "Service & Outreach",
-    "text": "Service & Outreach\n\nCo-organiser, StatGen Annual Meeting (December 2025, Campus Odéon, Paris) — website, programme, speaker coordination\nMission doctorale, INSERM StatGen thematic network launch (May 2025)\nCo-organiser, M4DI PhD student annual retreat — workshop design and logistics\nFlash talk & poster, BIOTIC Annual Day (May 2025, Paris)\nActive participant, M4DI consortium monthly meetings and working sessions\nInternational collaboration with PaMuNe project (Argentina), multi-pathology patient data analysis"
-  },
-  {
-    "objectID": "cv.html#training",
-    "href": "cv.html#training",
-    "title": "Curriculum Vitae",
-    "section": "Training",
-    "text": "Training\n\nMassive Genomic Data: Statistical and Bioinformatic Advances (Sept–Oct 2024, 28h)\nMultimodal Data Integration to Quantify Tumour Heterogeneity in Cancer (Dec 2024, 24h)\nHealth Data training (March–April 2025, 15h)\nMOOC Open Science (Jan 2025)\nResearch Ethics and Scientific Integrity MOOC (April 2025)\nDiagnosing and Clarifying Your Paper (Oct 2024)"
-  },
-  {
-    "objectID": "cv.html#languages",
-    "href": "cv.html#languages",
-    "title": "Curriculum Vitae",
-    "section": "Languages",
-    "text": "Languages\nFrench (native) · English (fluent)"
-  },
-  {
-    "objectID": "cv.html#summary",
-    "href": "cv.html#summary",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "PhD candidate in Biostatistics & Genetic Epidemiology at INSERM, Paris. I develop graph-based machine learning methods — knowledge graphs and heterogeneous graph neural networks — to extract genotype-phenotype associations from large-scale cohort data. Committed to open science, reproducibility, and supporting women in machine learning."
-  },
-  {
-    "objectID": "cv.html#community-service",
-    "href": "cv.html#community-service",
-    "title": "Curriculum Vitae",
-    "section": "Community & Service",
-    "text": "Community & Service\nCo-organiser — StatGen Annual Meeting (December 2025, Campus Odéon, Paris)\nBuilt the conference website, coordinated speakers, contributed to programme design for the INSERM StatGen thematic network annual meeting\nMission Doctorale — StatGen Network Launch (May 2025)\nContributed to the launch and scientific animation of the INSERM StatGen thematic network\nCo-organiser — M4DI PhD Student Annual Retreat (October 2024)\nDesigned workshops, coordinated programme and logistics\nInformal Mentor (2024 – present)\nGuides interns through technical onboarding in graph ML and genomics pipelines at CESP – INSERM\nCareer Talk — Journée des Métiers (March 2025, Institut Agro Rennes)\nPresented industry-to-academia trajectory to prospective students"
+    "objectID": "publications.html#software",
+    "href": "publications.html#software",
+    "title": "Publications",
+    "section": "Software",
+    "text": "Software\nRnem — R Shiny application to simulate nematode-plant root dynamics and model virulence evolution under resistant/susceptible cultivar rotations.\nGhestem F., Touzeau S., Calcagno V., Mailleret L.\nInstitut Sophia Agrobiotech (INRAE/CNRS/Université Côte d’Azur), 2021.\n📦 HAL 🔗 App"
   },
   {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "February 2026 — Research visit at Marseille Medical Genetics (MMG), Aix-Marseille Université. Three-week stay to develop the knowledge graph methodology with the team."
+    "text": "February 2026 — Three-week research visit at Marseille Medical Genetics (MMG). Working with the Baudot lab to push forward the graph methodology at the core of my PhD."
   },
   {
     "objectID": "news.html#section",
     "href": "news.html#section",
     "title": "News",
     "section": "",
-    "text": "February 2026 — Research visit at Marseille Medical Genetics (MMG), Aix-Marseille Université. Three-week stay to develop the knowledge graph methodology with the team."
+    "text": "February 2026 — Three-week research visit at Marseille Medical Genetics (MMG). Working with the Baudot lab to push forward the graph methodology at the core of my PhD."
   },
   {
     "objectID": "news.html#section-1",
     "href": "news.html#section-1",
     "title": "News",
     "section": "2025",
-    "text": "2025\nAugust 2025 — Poster presentation at IGES 2025 (International Genetic Epidemiology Society Annual Meeting), Cologne, Germany. Presented “Knowledge graph to dissect genotype phenotype associations”.\nMay 2025 — Flash talk and poster presentation at the BIOTIC Annual Day, Paris.\nMay 2025 — Participation in the International Symposium on Human Genomics.\nMay 2025 — Contributed to the launch of the INSERM StatGen thematic network.\nDecember 2025 — Co-organised the StatGen Annual Meeting, Campus Odéon, Paris. Built the conference website and coordinated speaker communications."
+    "text": "2025\n\nDecember 2025 — Co-organised the StatGen Annual Meeting, Paris, alongside Anne-Louise Leutenegger and Emmanuelle Bouzigon. Built the conference website and coordinated speaker communications, managed participant communications and the mailing list.\nAugust 2025 — Presented a poster at IGES 2025, Cologne, Germany. First international conference of my PhD — interesting discussions with the genetic epidemiology community.\nMay 2025 — Flash talk and poster at the BIOTIC Annual Day, Marseille. A chance to present my work to a broader bioinformatic audience.\nMay 2025 — Attended the International Symposium on Human Genomics, Paris.\nMay 2025 — Contributed to the launch of the INSERM StatGen thematic network with with Anne-Louise Leutenegger and Em, a new initiative connecting the statistical genetics community in France.\nJanuary 2025 — Animated a M4DI consortium working session, presenting my work alongside two other PhD students and an external researcher."
   },
   {
     "objectID": "news.html#section-2",
     "href": "news.html#section-2",
     "title": "News",
     "section": "2024",
-    "text": "2024\nSeptember 2024 — Started PhD at CESP – INSERM U1018, Hôpital Paul Brousse, Villejuif, under the supervision of Anne-Louise Leutenegger, Anaïs Baudot, and Anne-Sophie Jannot. Funded by the ANR PEPR Santé Numérique (M4DI project).\nNovember 2024 — Research visit at Marseille Medical Genetics (MMG), two weeks. Developed hands-on expertise in patient similarity networks and knowledge graphs.\nOctober 2024 — Participated in the M4DI consortium annual retreat. Introduction to FAIR open data principles."
+    "text": "2024\n\nNovember 2024 — Two-week research visit at Marseille Medical Genetics (MMG). First stay with the Baudot lab, got hands-on with patient similarity networks and knowledge graph methods.\nNovember 2024 — Collaboration with the PaMuNe project (Argentina), meetings at MMG during my visit.\nOctober 2024 — M4DI consortium annual retreat. Met the broader team and got introduced to FAIR data principles in the context of health research.\nSeptember 2024 — Started my PhD at CESP, INSERM, Villejuif."
   }
 ]
