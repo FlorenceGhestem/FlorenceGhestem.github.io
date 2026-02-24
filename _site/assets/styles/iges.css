@@ -1,0 +1,195 @@
+/* Import Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+/* Custom CSS for mobile-friendly academic design */
+:root {
+  --primary-color: #2c5282;
+  --secondary-color: #3182ce;
+  --accent-color: #e53e3e;
+  --text-color: #2d3748;
+  --light-bg: #f7fafc;
+  --border-color: #e2e8f0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+/* Header styling */
+.title {
+  color: var(--primary-color);
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: var(--secondary-color);
+  font-weight: 400;
+  font-size: 1.2em;
+}
+
+/* Section headers */
+h1, h2, h3 {
+  color: var(--primary-color);
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  border-bottom: 2px solid var(--secondary-color);
+  padding-bottom: 0.5rem;
+}
+
+/* Cards for content sections */
+.content-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  border-left: 4px solid var(--secondary-color);
+}
+
+.highlight-card {
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  border-left-color: var(--accent-color);
+}
+
+/* Figure styling */
+.figure-container {
+  text-align: center;
+  margin: 2rem 0;
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.figure-caption {
+  font-size: 0.9em;
+  color: #4a5568;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  .content {
+    padding: 0.5rem;
+  }
+  
+  h1 { font-size: 1.5em; }
+  h2 { font-size: 1.3em; }
+  h3 { font-size: 1.1em; }
+  
+  .content-card {
+    padding: 1rem;
+    margin: 0.5rem 0;
+  }
+}
+
+/* Key findings highlight */
+.key-finding {
+  background: linear-gradient(90deg, #fed7d7 0%, #feb2b2 100%);
+  padding: 1rem;
+  border-radius: 8px;
+  border-left: 4px solid var(--accent-color);
+  margin: 1rem 0;
+  font-weight: 500;
+}
+
+/* Statistics display */
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.stat-item {
+  text-align: center;
+  padding: 1rem;
+  background: var(--light-bg);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.stat-value {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+.stat-label {
+  font-size: 0.9em;
+  color: #4a5568;
+  margin-top: 0.25rem;
+}
+
+/* Table styling */
+.content-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  font-size: 0.95em;
+}
+
+.content-table th {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+  font-weight: 600;
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.content-table td {
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.content-table tr:last-child td {
+  border-bottom: none;
+}
+
+.content-table tr:nth-child(even) {
+  background-color: var(--light-bg);
+}
+
+.content-table tr:hover {
+  background-color: #edf2f7;
+}
+
+/* Table caption */
+.table-caption {
+  font-size: 0.9em;
+  color: #4a5568;
+  margin-top: 0.5rem;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Mobile table optimizations */
+@media (max-width: 768px) {
+  .content-table {
+    font-size: 0.85em;
+  }
+  
+  .content-table th,
+  .content-table td {
+    padding: 0.6rem 0.8rem;
+  }
+}
