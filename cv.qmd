@@ -25,7 +25,7 @@ Funded by ANR PEPR Santé Numérique — M4DI project
 IT&M Stats (L'Oréal client), Boulogne-Billancourt
 
 - Statistical analysis of cohort studies linking skin biomarkers with clinical signs (PLS, factorial analyses, linear mixed models)
-- Project management and monitoring of a 10,000-participant cohort
+- Project management and monitoring of a clinical cohort
 
 **Statistician Intern** *(March – September 2022)*  
 Chanel, Paris
