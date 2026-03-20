@@ -4,6 +4,7 @@ title: "News"
 
 ## 2026
 
+- **Mars 2026** — Attended M4DI Annual retreat, where I had a chance to present my work to the consortium members.
 - **February 2026** — Three-week research visit at Marseille Medical Genetics (MMG). Working with the Baudot lab to push forward the graph methodology at the core of my PhD.
 
 ---
@@ -11,10 +12,11 @@ title: "News"
 ## 2025
 
 - **December 2025** — Co-organised the [StatGen Annual Meeting](https://statgen-am25.sciencesconf.org/), Paris, alongside Anne-Louise Leutenegger and Emmanuelle Bouzigon. Built the conference website and coordinated speaker communications, managed participant communications and the mailing list.
+- **November 2025** — Co-organised scientific programme of the M4DI Ph.D. student retreat in Lyon.
 - **August 2025** — Presented a poster at [IGES 2025](https://onlinelibrary.wiley.com/doi/10.1002/gepi.70017), Cologne, Germany. First international conference of my PhD — interesting discussions with the genetic epidemiology community.
-- **May 2025** — Flash talk and poster at the [BIOTIC Annual Day](https://biotic2025.sciencesconf.org/), Marseille. A chance to present my work to a broader bioinformatic audience.
+- **May 2025** — Flash talk and poster at the [BIOTIC Annual Day](https://biotic2025.sciencesconf.org/), Marseille. A chance to present my work to a broader bioinformatics audience.
 - **May 2025** — Attended the [International Symposium on Human Genomics](https://ishg2025.sciencesconf.org/), Paris.
-- **May 2025** — Contributed to the launch of the INSERM StatGen thematic network with with Anne-Louise Leutenegger and Em, a new initiative connecting the statistical genetics community in France.
+- **May 2025** — Contributed to the launch of the INSERM StatGen thematic network, a new initiative connecting the statistical genetics community in France.
 - **January 2025** — Animated a M4DI consortium working session, presenting my work alongside two other PhD students and an external researcher.
 
 ---
